@@ -2,7 +2,6 @@
 - 👀 I’m interested in automation with python
 - 🌱 I’m currently learning CCNA, C#, Pyhton and SQL 
 - 💞️ I’m looking to collaborate on automation projects
-- 📫 How to reach me ...
 
 <!---
 frostidentity/frostidentity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
